@@ -1,0 +1,12 @@
+section .text
+global main
+_main
+    MOV RAX, 1
+    PUSH RAX
+    MOV RBX, 34
+loop:
+    INC RAX
+    CMP RAX, 5
+    JZ loop
+    MOV RAX, 46
+    RET
