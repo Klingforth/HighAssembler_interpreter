@@ -27,7 +27,7 @@ Das Hauptziel dieses Interpreters ist die Edukation. Anstatt komplexe moderne Ar
 
     Status-Monitor: Gibt nach jedem Schritt den Zustand der wichtigsten Register und des Stacks aus.
 
-- Nutzung
+ Nutzung
 
     Erstelle eine Datei (z.B. program.hasm) mit folgendem Format:
     Code-Snippet
