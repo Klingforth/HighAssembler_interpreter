@@ -29,7 +29,7 @@ Das Hauptziel dieses Interpreters ist die Edukation. Anstatt komplexe moderne Ar
 
 - Nutzung
 
-    Erstelle eine Datei (z.B. program.txt) mit folgendem Format:
+    Erstelle eine Datei (z.B. program.hasm) mit folgendem Format:
     Code-Snippet
 
     MOV RAX 1
@@ -44,7 +44,7 @@ Das Hauptziel dieses Interpreters ist die Edukation. Anstatt komplexe moderne Ar
     Starte den Emulator:
     Bash
 
-    ruby emulator.rb program.txt
+    ruby emulator.rb program.hasm
 
 - Lerneffekt
 
