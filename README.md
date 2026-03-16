@@ -7,7 +7,7 @@ Das Hauptziel dieses Interpreters ist die Edukation. Anstatt komplexe moderne Ar
 
     Registersatz: Simulation von Registern wie RAX, RBX, RIP (Instruction Pointer) etc.
 geschrieben wurde. Dieses Projekt dient dazu, die fundamentale Funktionsweise einer CPU, des RAMs und eines Stacks auf unterster Ebene zu visualisieren und zu verstehen.
-🎯 Projektziel
+- Projektziel
 
 Das Hauptziel dieses Interpreters ist die Edukation. Anstatt komplexe moderne Architekturen zu abstrahieren, bildet dieser Code die Kernkonzepte eines Prozessors ab:
 
@@ -19,7 +19,7 @@ Das Hauptziel dieses Interpreters ist die Edukation. Anstatt komplexe moderne Ar
 
     Control Flow: Implementierung von Sprungmarken (Labels) und bedingten Sprüngen (JZ, JMP).
 
-🛠 Features
+ - Features
 
     Custom Assembler Parser: Liest eine Textdatei mit Assembly-ähnlichem Code ein und wandelt sie in Opcodes (RAM-Werte) um.
 
@@ -27,7 +27,7 @@ Das Hauptziel dieses Interpreters ist die Edukation. Anstatt komplexe moderne Ar
 
     Status-Monitor: Gibt nach jedem Schritt den Zustand der wichtigsten Register und des Stacks aus.
 
-🚀 Nutzung
+- Nutzung
 
     Erstelle eine Datei (z.B. program.txt) mit folgendem Format:
     Code-Snippet
@@ -46,7 +46,7 @@ Das Hauptziel dieses Interpreters ist die Edukation. Anstatt komplexe moderne Ar
 
     ruby emulator.rb program.txt
 
-🧠 Lerneffekt
+- Lerneffekt
 
 Durch die Arbeit an diesem Projekt wurden folgende Konzepte vertieft:
 
