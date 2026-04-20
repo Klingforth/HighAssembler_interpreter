@@ -1,7 +1,7 @@
 Ruby CPU Emulator & Interpreter
 
 Ein leichtgewichtiger Instruction Set Emulator, der in Ruby geschrieben wurde. Dieses Projekt dient dazu, die fundamentale Funktionsweise einer CPU, des RAMs und eines Stacks auf unterster Ebene zu visualisieren und zu verstehen.
- Projektziel
+- Projektziel
 
 Das Hauptziel dieses Interpreters ist die Edukation. Anstatt komplexe moderne Architekturen zu abstrahieren, bildet dieser Code die Kernkonzepte eines Prozessors ab:
 
